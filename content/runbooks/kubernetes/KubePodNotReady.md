@@ -49,7 +49,7 @@ Other things to check:
 - wrong user permissions in container
 - lack of special container capabilities (securityContext)
 - app is executed in different directory than expected
-  (for example WORKDIR from Docerkfile is not used in OpenShift)
+  (for example WORKDIR from Dockerfile is not used in OpenShift)
 
 ## Mitigation
 
